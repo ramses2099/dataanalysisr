@@ -1,7 +1,20 @@
-# firt data frame
-p.height <- c(180, 155, 160, 167, 181)
-p.weight <- c(65, 50, 52, 58, 70)
-p.names <- c("Joanna", "Charlotte", "Helen", "Karen", "Amy")
+install.packages("caret")
 
-df <- data.frame(height = p.height, weight= p.weight, names = p.names)
-df
+
+library(caret)
+
+data("iris")
+
+dataset <- iris
+
+validation_index <- createDataPartition(dataset$Species, p=0.80, list=FALSE)
+validation <- dataset[-validation_index]
+dataset <- dataset[validation_index,]
+
+dim(dataset)
+
+sapply(dataset, class)
+
+
+head(dataset)
+

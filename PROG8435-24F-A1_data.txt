@@ -1,0 +1,481 @@
+﻿Province,Year,UnEmp,Part,Emp
+Newfoundland and Labrador,1976,13.4,49.4,42.8
+Newfoundland and Labrador,1977,15.4,50.6,42.8
+Newfoundland and Labrador,1978,15.9,51.7,43.5
+Newfoundland and Labrador,1979,14.8,53.4,45.5
+Newfoundland and Labrador,1980,13.3,53.2,46.2
+Newfoundland and Labrador,1981,13.5,53.5,46.3
+Newfoundland and Labrador,1982,16.2,53.1,44.5
+Newfoundland and Labrador,1983,18.1,53.3,43.7
+Newfoundland and Labrador,1984,20.1,53.5,42.8
+Newfoundland and Labrador,1985,20.2,54.2,43.3
+Newfoundland and Labrador,1986,18.8,54.3,44.1
+Newfoundland and Labrador,1987,17.8,54.2,44.6
+Newfoundland and Labrador,1988,16.2,55.3,46.3
+Newfoundland and Labrador,1989,15.5,56,47.4
+Newfoundland and Labrador,1990,17,56.7,47
+Newfoundland and Labrador,1991,18,56.2,46.1
+Newfoundland and Labrador,1992,20,54.4,43.5
+Newfoundland and Labrador,1993,20.1,53.9,43
+Newfoundland and Labrador,1994,20,53.8,43.1
+Newfoundland and Labrador,1995,18,53.1,43.5
+Newfoundland and Labrador,1996,18.9,52.5,42.6
+Newfoundland and Labrador,1997,18.1,52.7,43.1
+Newfoundland and Labrador,1998,17.6,54.2,44.6
+Newfoundland and Labrador,1999,16.7,56.2,46.8
+Newfoundland and Labrador,2000,16.6,55.5,46.3
+Newfoundland and Labrador,2001,16,56.8,47.7
+Newfoundland and Labrador,2002,16.7,58.2,48.5
+Newfoundland and Labrador,2003,16.5,59.1,49.4
+Newfoundland and Labrador,2004,15.6,59.1,49.9
+Newfoundland and Labrador,2005,15.2,58.7,49.7
+Newfoundland and Labrador,2006,15,59.3,50.4
+Newfoundland and Labrador,2007,13.7,59.4,51.2
+Newfoundland and Labrador,2008,13.3,59.7,51.8
+Newfoundland and Labrador,2009,15.8,59.2,49.9
+Newfoundland and Labrador,2010,14.9,60.3,51.3
+Newfoundland and Labrador,2011,13.1,60.8,52.8
+Newfoundland and Labrador,2012,12.8,62.1,54.2
+Newfoundland and Labrador,2013,11.8,61.7,54.4
+Newfoundland and Labrador,2014,12.5,61.4,53.7
+Newfoundland and Labrador,2015,13.2,61.8,53.6
+Newfoundland and Labrador,2016,13.8,60.7,52.4
+Newfoundland and Labrador,2017,15.2,59.5,50.4
+Newfoundland and Labrador,2018,14.1,59.1,50.7
+Newfoundland and Labrador,2019,12.2,58.7,51.6
+Newfoundland and Labrador,2020,14.4,56.4,48.4
+Newfoundland and Labrador,2021,13.1,57.6,50
+Newfoundland and Labrador,2022,11.3,58.4,51.9
+Newfoundland and Labrador,2023,10,57.8,52
+Prince Edward Island,1976,9.3,57.1,51.9
+Prince Edward Island,1977,9.5,57,51.5
+Prince Edward Island,1978,9.7,57.4,51.8
+Prince Edward Island,1979,11.6,59.3,52.4
+Prince Edward Island,1980,10.5,59.5,53.2
+Prince Edward Island,1981,11.3,58.7,52
+Prince Edward Island,1982,12.6,58.5,51.2
+Prince Edward Island,1983,12.2,60,52.7
+Prince Edward Island,1984,12.5,60.1,52.6
+Prince Edward Island,1985,13.5,61.5,53.2
+Prince Edward Island,1986,13,62.6,54.5
+Prince Edward Island,1987,12.3,63.2,55.5
+Prince Edward Island,1988,12.2,64.2,56.3
+Prince Edward Island,1989,13.7,65.3,56.4
+Prince Edward Island,1990,14.4,65.6,56.2
+Prince Edward Island,1991,16.5,65.1,54.2
+Prince Edward Island,1992,17.6,65.6,53.9
+Prince Edward Island,1993,16.9,65.2,54.2
+Prince Edward Island,1994,16.5,65.4,54.6
+Prince Edward Island,1995,14.8,65,55.4
+Prince Edward Island,1996,14.6,66.1,56.3
+Prince Edward Island,1997,15.3,65.8,55.8
+Prince Edward Island,1998,13.9,65.6,56.5
+Prince Edward Island,1999,14.3,66.2,56.7
+Prince Edward Island,2000,12,66.8,58.7
+Prince Edward Island,2001,11.9,67.1,59.2
+Prince Edward Island,2002,11.9,67.6,59.6
+Prince Edward Island,2003,10.9,67.8,60.4
+Prince Edward Island,2004,11.2,67.9,60.3
+Prince Edward Island,2005,10.9,68.1,60.8
+Prince Edward Island,2006,11.5,68.6,60.7
+Prince Edward Island,2007,10.6,67.8,60.7
+Prince Edward Island,2008,11.2,68.4,60.7
+Prince Edward Island,2009,12,67.9,59.8
+Prince Edward Island,2010,11.5,68,60.2
+Prince Edward Island,2011,11.3,68.6,60.8
+Prince Edward Island,2012,11.3,69,61.2
+Prince Edward Island,2013,11.6,70.2,62
+Prince Edward Island,2014,10.7,68.9,61.5
+Prince Edward Island,2015,10.6,68.2,61
+Prince Edward Island,2016,10.6,66.8,59.7
+Prince Edward Island,2017,9.9,67,60.4
+Prince Edward Island,2018,9.8,67.4,60.7
+Prince Edward Island,2019,8.9,67,61
+Prince Edward Island,2020,10.5,64.8,58
+Prince Edward Island,2021,9.7,65.9,59.5
+Prince Edward Island,2022,7.6,65.5,60.5
+Prince Edward Island,2023,7.3,66.4,61.5
+Nova Scotia,1976,9.2,55.6,50.5
+Nova Scotia,1977,10.3,55.6,49.8
+Nova Scotia,1978,10.5,56.2,50.3
+Nova Scotia,1979,10,57,51.3
+Nova Scotia,1980,9.7,57.3,51.8
+Nova Scotia,1981,10,57.7,51.9
+Nova Scotia,1982,12.8,57.5,50.2
+Nova Scotia,1983,13.4,57.7,50
+Nova Scotia,1984,13,59.2,51.5
+Nova Scotia,1985,13.4,59.4,51.4
+Nova Scotia,1986,13.3,59.9,51.9
+Nova Scotia,1987,12,60,52.8
+Nova Scotia,1988,10.2,60.7,54.5
+Nova Scotia,1989,9.9,61.3,55.2
+Nova Scotia,1990,10.7,61.9,55.3
+Nova Scotia,1991,12.1,61.6,54.1
+Nova Scotia,1992,13.1,60,52.1
+Nova Scotia,1993,14.3,60,51.4
+Nova Scotia,1994,13.5,60.1,52
+Nova Scotia,1995,12.2,59.4,52.2
+Nova Scotia,1996,12.4,59.4,52
+Nova Scotia,1997,12.1,59.7,52.5
+Nova Scotia,1998,10.5,60.5,54.2
+Nova Scotia,1999,9.6,60.8,54.9
+Nova Scotia,2000,9.1,61.2,55.7
+Nova Scotia,2001,9.7,62,56
+Nova Scotia,2002,9.6,62.6,56.5
+Nova Scotia,2003,9.1,63,57.3
+Nova Scotia,2004,8.8,63.9,58.3
+Nova Scotia,2005,8.4,63.4,58.1
+Nova Scotia,2006,8.2,62.8,57.6
+Nova Scotia,2007,8.2,63.5,58.3
+Nova Scotia,2008,7.9,63.9,58.9
+Nova Scotia,2009,9.4,64.5,58.4
+Nova Scotia,2010,9.6,64.5,58.3
+Nova Scotia,2011,9,64.1,58.4
+Nova Scotia,2012,9.2,64.7,58.7
+Nova Scotia,2013,9,64.3,58.5
+Nova Scotia,2014,9.1,63.4,57.6
+Nova Scotia,2015,8.8,62.7,57.2
+Nova Scotia,2016,8.4,61.9,56.7
+Nova Scotia,2017,8.5,62,56.7
+Nova Scotia,2018,7.8,61.6,56.8
+Nova Scotia,2019,7.4,62.3,57.6
+Nova Scotia,2020,9.9,60.4,54.5
+Nova Scotia,2021,8.6,62.3,57
+Nova Scotia,2022,6.5,61.7,57.7
+Nova Scotia,2023,6.3,61.5,57.6
+New Brunswick,1976,11,53.9,48
+New Brunswick,1977,13.3,53.6,46.5
+New Brunswick,1978,12.4,54.8,48
+New Brunswick,1979,10.9,55.4,49.4
+New Brunswick,1980,11.1,55.7,49.5
+New Brunswick,1981,11.6,56.4,49.8
+New Brunswick,1982,14,55.3,47.6
+New Brunswick,1983,14.9,55.7,47.4
+New Brunswick,1984,14.6,55.6,47.5
+New Brunswick,1985,15.2,56.9,48.3
+New Brunswick,1986,14.4,57.8,49.5
+New Brunswick,1987,13.2,58.5,50.8
+New Brunswick,1988,11.8,59.2,52.3
+New Brunswick,1989,12.1,60,52.8
+New Brunswick,1990,12.1,60,52.8
+New Brunswick,1991,12.7,58.8,51.3
+New Brunswick,1992,13,58.9,51.2
+New Brunswick,1993,12.6,58.9,51.5
+New Brunswick,1994,12.5,58.4,51.1
+New Brunswick,1995,11.4,59.1,52.4
+New Brunswick,1996,11.6,58.7,51.8
+New Brunswick,1997,12.6,59.9,52.3
+New Brunswick,1998,12.2,60.6,53.2
+New Brunswick,1999,10.2,60.8,54.7
+New Brunswick,2000,10,61.6,55.4
+New Brunswick,2001,11.1,61.9,55
+New Brunswick,2002,10.1,63.3,56.9
+New Brunswick,2003,10.2,63.1,56.6
+New Brunswick,2004,9.8,63.8,57.5
+New Brunswick,2005,9.7,63.2,57.1
+New Brunswick,2006,9.2,63.5,57.6
+New Brunswick,2007,7.7,63.8,58.9
+New Brunswick,2008,8.7,65,59.3
+New Brunswick,2009,9,64.7,58.9
+New Brunswick,2010,9.4,64.2,58.2
+New Brunswick,2011,9.6,63.6,57.5
+New Brunswick,2012,10.4,63.5,56.9
+New Brunswick,2013,10.4,63.9,57.2
+New Brunswick,2014,10.1,63.5,57.1
+New Brunswick,2015,10,62.9,56.6
+New Brunswick,2016,9.7,62.9,56.8
+New Brunswick,2017,8.3,62,56.9
+New Brunswick,2018,8.1,61.8,56.7
+New Brunswick,2019,8.2,61.6,56.6
+New Brunswick,2020,10.3,60.8,54.5
+New Brunswick,2021,9.2,61.5,55.9
+New Brunswick,2022,7.2,60.6,56.2
+New Brunswick,2023,6.6,60.5,56.6
+Quebec,1976,8.7,58.8,53.7
+Quebec,1977,10.4,59.3,53.1
+Quebec,1978,11,60,53.4
+Quebec,1979,9.7,60.6,54.7
+Quebec,1980,10,61.4,55.3
+Quebec,1981,10.5,61.9,55.4
+Quebec,1982,14,60.4,51.9
+Quebec,1983,14.2,61.1,52.4
+Quebec,1984,13.1,61.7,53.6
+Quebec,1985,12.2,62.4,54.8
+Quebec,1986,11,62.9,56
+Quebec,1987,10.2,63.6,57.1
+Quebec,1988,9.5,63.8,57.7
+Quebec,1989,9.6,64.2,58
+Quebec,1990,10.4,64.2,57.5
+Quebec,1991,12.1,63.6,55.9
+Quebec,1992,12.7,62.6,54.6
+Quebec,1993,13.2,62.3,54
+Quebec,1994,12.3,62.5,54.8
+Quebec,1995,11.5,62.2,55.1
+Quebec,1996,11.8,61.9,54.6
+Quebec,1997,11.4,62.1,55
+Quebec,1998,10.3,62.6,56.1
+Quebec,1999,9.3,62.8,56.9
+Quebec,2000,8.5,63.1,57.8
+Quebec,2001,8.8,63.6,58
+Quebec,2002,8.7,65.2,59.5
+Quebec,2003,9.1,66.1,60.1
+Quebec,2004,8.5,65.9,60.3
+Quebec,2005,8.2,65.6,60.2
+Quebec,2006,8.3,65.4,60
+Quebec,2007,7.4,65.6,60.7
+Quebec,2008,7.4,65.6,60.7
+Quebec,2009,8.8,65.3,59.6
+Quebec,2010,8.2,65.3,59.9
+Quebec,2011,8,65.2,60
+Quebec,2012,7.8,65.3,60.1
+Quebec,2013,7.8,65.5,60.4
+Quebec,2014,7.8,65,59.9
+Quebec,2015,7.7,65,60
+Quebec,2016,7.2,64.7,60
+Quebec,2017,6,65,61
+Quebec,2018,5.5,65,61.5
+Quebec,2019,5.1,65.2,61.9
+Quebec,2020,8.9,63.8,58.1
+Quebec,2021,6.1,64.1,60.2
+Quebec,2022,4.3,64.3,61.5
+Quebec,2023,4.5,65,62.1
+Ontario,1976,6.1,64.2,60.3
+Ontario,1977,6.9,64.5,60
+Ontario,1978,7.2,65.4,60.7
+Ontario,1979,6.6,66.6,62.2
+Ontario,1980,6.9,66.8,62.2
+Ontario,1981,6.6,67.7,63.2
+Ontario,1982,9.8,67.5,60.9
+Ontario,1983,10.4,67.6,60.6
+Ontario,1984,9,67.8,61.7
+Ontario,1985,7.9,68.4,63
+Ontario,1986,7,68.8,64
+Ontario,1987,6.1,69.1,64.9
+Ontario,1988,5,69.6,66.1
+Ontario,1989,5,70,66.5
+Ontario,1990,6.2,69.5,65.3
+Ontario,1991,9.5,68.5,62
+Ontario,1992,10.8,67.3,60.1
+Ontario,1993,10.9,66.7,59.4
+Ontario,1994,9.6,65.9,59.6
+Ontario,1995,8.7,65.5,59.7
+Ontario,1996,9,65.6,59.6
+Ontario,1997,8.4,65.8,60.2
+Ontario,1998,7.2,65.9,61.2
+Ontario,1999,6.3,66.5,62.3
+Ontario,2000,5.7,67,63.2
+Ontario,2001,6.3,67.3,63
+Ontario,2002,7.1,67.8,62.9
+Ontario,2003,6.9,68.5,63.7
+Ontario,2004,6.8,68.4,63.8
+Ontario,2005,6.6,68,63.5
+Ontario,2006,6.4,67.7,63.3
+Ontario,2007,6.4,67.7,63.3
+Ontario,2008,6.6,67.6,63.2
+Ontario,2009,9.2,67.1,60.9
+Ontario,2010,8.8,67,61.1
+Ontario,2011,8,66.7,61.4
+Ontario,2012,8,66.4,61.1
+Ontario,2013,7.6,66.5,61.4
+Ontario,2014,7.4,66,61.1
+Ontario,2015,6.8,65.5,61.1
+Ontario,2016,6.5,65.2,60.9
+Ontario,2017,6.1,65.3,61.3
+Ontario,2018,5.6,64.9,61.3
+Ontario,2019,5.6,65.3,61.6
+Ontario,2020,9.8,63.7,57.5
+Ontario,2021,8.1,65.2,59.9
+Ontario,2022,5.6,65.4,61.8
+Ontario,2023,5.7,65.5,61.8
+Manitoba,1976,4.7,61.8,58.9
+Manitoba,1977,5.7,62.1,58.6
+Manitoba,1978,6.5,63,58.9
+Manitoba,1979,5.5,63.5,60
+Manitoba,1980,5.5,64.3,60.8
+Manitoba,1981,6,65.1,61.2
+Manitoba,1982,8.5,65,59.4
+Manitoba,1983,9.5,65.8,59.5
+Manitoba,1984,8.6,65.8,60.2
+Manitoba,1985,8.3,65.9,60.5
+Manitoba,1986,7.6,66.7,61.6
+Manitoba,1987,7.5,66.7,61.7
+Manitoba,1988,7.7,66.8,61.6
+Manitoba,1989,7.5,67.4,62.3
+Manitoba,1990,7.4,67.3,62.3
+Manitoba,1991,8.6,67,61.3
+Manitoba,1992,9.3,66.5,60.3
+Manitoba,1993,9.3,66.9,60.6
+Manitoba,1994,8.8,66.7,60.9
+Manitoba,1995,7.3,66.6,61.8
+Manitoba,1996,7.2,66.4,61.6
+Manitoba,1997,6.5,66.6,62.3
+Manitoba,1998,5.5,67,63.3
+Manitoba,1999,5.6,67.5,63.7
+Manitoba,2000,5,67.9,64.5
+Manitoba,2001,5,67.7,64.3
+Manitoba,2002,5.1,68.9,65.4
+Manitoba,2003,4.9,68.6,65.2
+Manitoba,2004,5.3,68.9,65.2
+Manitoba,2005,4.7,68.4,65.1
+Manitoba,2006,4.5,68.5,65.4
+Manitoba,2007,4.6,69.1,66
+Manitoba,2008,4.3,69.4,66.4
+Manitoba,2009,5.4,69.2,65.4
+Manitoba,2010,5.4,69.5,65.7
+Manitoba,2011,5.4,69.4,65.6
+Manitoba,2012,5.4,69,65.3
+Manitoba,2013,5.4,68.9,65.1
+Manitoba,2014,5.5,68.3,64.6
+Manitoba,2015,5.7,68.8,64.9
+Manitoba,2016,6.1,68,63.9
+Manitoba,2017,5.4,67.5,63.9
+Manitoba,2018,5.9,67.6,63.6
+Manitoba,2019,5.3,67.2,63.6
+Manitoba,2020,8.1,65.7,60.4
+Manitoba,2021,6.5,66.7,62.4
+Manitoba,2022,4.6,66.7,63.7
+Manitoba,2023,4.8,67.1,63.8
+Saskatchewan,1976,3.8,60.6,58.2
+Saskatchewan,1977,4.4,61.6,58.9
+Saskatchewan,1978,4.8,62.2,59.2
+Saskatchewan,1979,4.2,62.9,60.2
+Saskatchewan,1980,4.3,63.1,60.4
+Saskatchewan,1981,4.5,63.6,60.8
+Saskatchewan,1982,6.3,63.8,59.8
+Saskatchewan,1983,7.7,64.9,59.9
+Saskatchewan,1984,8.1,65.2,59.9
+Saskatchewan,1985,8.1,66.1,60.7
+Saskatchewan,1986,7.7,66.8,61.7
+Saskatchewan,1987,7.3,66.3,61.4
+Saskatchewan,1988,7.3,66.7,61.8
+Saskatchewan,1989,7.3,66.4,61.5
+Saskatchewan,1990,7,66.6,61.9
+Saskatchewan,1991,7.4,66.9,62
+Saskatchewan,1992,8,66.5,61.2
+Saskatchewan,1993,8.3,66.5,61
+Saskatchewan,1994,6.9,66.1,61.5
+Saskatchewan,1995,6.7,66,61.6
+Saskatchewan,1996,6.6,65.3,61
+Saskatchewan,1997,5.9,66.2,62.2
+Saskatchewan,1998,5.8,66.5,62.6
+Saskatchewan,1999,6,66.8,62.7
+Saskatchewan,2000,5.1,66.7,63.3
+Saskatchewan,2001,5.8,65.6,61.8
+Saskatchewan,2002,5.7,66.9,63.1
+Saskatchewan,2003,5.6,67.8,64
+Saskatchewan,2004,5.3,67.8,64.2
+Saskatchewan,2005,5.1,67.9,64.4
+Saskatchewan,2006,4.7,68.8,65.6
+Saskatchewan,2007,4.4,69.7,66.7
+Saskatchewan,2008,4.2,70.1,67.2
+Saskatchewan,2009,5.1,70.6,67
+Saskatchewan,2010,5.3,70.6,66.8
+Saskatchewan,2011,5,70,66.5
+Saskatchewan,2012,4.9,70,66.6
+Saskatchewan,2013,4.2,70.3,67.4
+Saskatchewan,2014,3.9,69.7,67
+Saskatchewan,2015,5.2,70,66.4
+Saskatchewan,2016,6.4,69.7,65.3
+Saskatchewan,2017,6.4,69.2,64.7
+Saskatchewan,2018,6.1,68.9,64.6
+Saskatchewan,2019,5.5,69.1,65.3
+Saskatchewan,2020,8.4,67.3,61.7
+Saskatchewan,2021,6.6,67.6,63.1
+Saskatchewan,2022,4.7,67.8,64.6
+Saskatchewan,2023,4.8,67.3,64.1
+Alberta,1976,3.9,67.4,64.7
+Alberta,1977,4.5,67.6,64.6
+Alberta,1978,4.8,68.5,65.3
+Alberta,1979,3.9,69.9,67.2
+Alberta,1980,3.9,70.8,68.1
+Alberta,1981,3.9,72.3,69.5
+Alberta,1982,7.7,71.7,66.2
+Alberta,1983,11,71.7,63.8
+Alberta,1984,11.3,72.2,64
+Alberta,1985,9.8,72.6,65.5
+Alberta,1986,9.9,72.6,65.4
+Alberta,1987,9.6,72.4,65.4
+Alberta,1988,8,72.7,66.9
+Alberta,1989,7.2,72.7,67.5
+Alberta,1990,6.9,72.5,67.6
+Alberta,1991,8.2,72.6,66.6
+Alberta,1992,9.5,72.2,65.4
+Alberta,1993,9.6,71.8,64.9
+Alberta,1994,8.8,72,65.7
+Alberta,1995,7.8,72.3,66.6
+Alberta,1996,6.9,72.3,67.4
+Alberta,1997,5.9,72.2,67.9
+Alberta,1998,5.6,72.6,68.6
+Alberta,1999,5.7,72.6,68.4
+Alberta,2000,5,72.2,68.6
+Alberta,2001,4.7,72.3,68.9
+Alberta,2002,5.3,72.9,69.1
+Alberta,2003,5.1,73.5,69.8
+Alberta,2004,4.7,73.5,70.1
+Alberta,2005,4,72.7,69.8
+Alberta,2006,3.6,73.6,71
+Alberta,2007,3.7,74.5,71.8
+Alberta,2008,3.8,74.8,71.9
+Alberta,2009,6.8,74.6,69.5
+Alberta,2010,6.6,73.2,68.4
+Alberta,2011,5.5,73.9,69.8
+Alberta,2012,4.7,73.9,70.4
+Alberta,2013,4.6,73.4,70
+Alberta,2014,4.8,72.9,69.4
+Alberta,2015,6.1,73.4,69
+Alberta,2016,8.2,72.4,66.5
+Alberta,2017,8,72.1,66.3
+Alberta,2018,6.5,71.8,67.1
+Alberta,2019,6.8,71.7,66.8
+Alberta,2020,11.3,68.9,61.1
+Alberta,2021,8.6,69.7,63.8
+Alberta,2022,5.8,69.8,65.7
+Alberta,2023,5.9,69.6,65.5
+British Columbia,1976,8.4,61.8,56.6
+British Columbia,1977,8.3,61.8,56.7
+British Columbia,1978,8.3,62.9,57.7
+British Columbia,1979,7.7,63.6,58.6
+British Columbia,1980,6.7,64.7,60.4
+British Columbia,1981,6.8,65.4,60.9
+British Columbia,1982,12.1,64.6,56.7
+British Columbia,1983,13.9,64.5,55.6
+British Columbia,1984,15,64.3,54.7
+British Columbia,1985,14.3,64.7,55.5
+British Columbia,1986,12.7,65.4,57
+British Columbia,1987,12.1,66.1,58.1
+British Columbia,1988,10.3,66.1,59.3
+British Columbia,1989,9.1,67,60.9
+British Columbia,1990,8.4,66.9,61.3
+British Columbia,1991,9.9,66.9,60.3
+British Columbia,1992,10.1,66.9,60.1
+British Columbia,1993,9.7,66.7,60.2
+British Columbia,1994,9.1,67.1,61
+British Columbia,1995,8.5,66.3,60.6
+British Columbia,1996,8.7,65.6,59.9
+British Columbia,1997,8.5,65.6,60.1
+British Columbia,1998,8.8,64.9,59.2
+British Columbia,1999,8.3,65.1,59.7
+British Columbia,2000,7.2,64.8,60.1
+British Columbia,2001,7.7,64,59.1
+British Columbia,2002,8.5,65,59.5
+British Columbia,2003,8,65.5,60.3
+British Columbia,2004,7.2,65.3,60.5
+British Columbia,2005,5.9,65.4,61.6
+British Columbia,2006,4.9,65.8,62.6
+British Columbia,2007,4.4,66.2,63.3
+British Columbia,2008,4.8,66.4,63.2
+British Columbia,2009,7.8,66.2,61
+British Columbia,2010,7.8,65.8,60.6
+British Columbia,2011,7.6,65.3,60.3
+British Columbia,2012,6.9,65.4,60.9
+British Columbia,2013,6.6,65,60.7
+British Columbia,2014,6.2,64.3,60.3
+British Columbia,2015,6.2,64.3,60.3
+British Columbia,2016,6.1,65.3,61.3
+British Columbia,2017,5.3,66.1,62.6
+British Columbia,2018,4.6,65.7,62.6
+British Columbia,2019,4.8,66.3,63.1
+British Columbia,2020,9.1,64.2,58.4
+British Columbia,2021,6.6,65.6,61.2
+British Columbia,2022,4.6,65.1,62.1
+British Columbia,2023,5.2,65.2,61.8
